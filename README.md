@@ -19,7 +19,7 @@ The following software will be needed for running the project:
 
  1. Change directory to */usr/local/node*
  2. Clone Git repository
- > git clone https://github.com/aplein97/Web20Backend
+ > git clone https://github.com/andersenhenrik/Web20Backend
  3. Install dependencies
  > npm install
 
@@ -74,5 +74,5 @@ Web2.0 Group 4
  - Clemens Richter -- clemens.richter@uni-rostock.de
  
  Related Links:
- - Project Link: https://github.com/aplein97/Web20Backend
+ - Project Link: https://github.com/andersenhenrik/Web20Backend
  - Frontend Repository: https://github.com/aplein97/Web20
